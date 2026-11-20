@@ -1,0 +1,6 @@
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# Personal trading data written by the skills (scans, plans, orders, portfolio, state)
+trader/
